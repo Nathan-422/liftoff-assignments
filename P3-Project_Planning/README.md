@@ -10,11 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-![/](/assets/Food choice diagram-home_.png)
-![/event/{eventId}/details](/assets/Food\ choice\ diagram-_event_\{eventId\}_details.png)
-![/event/{eventId}/matches](P3-Project_Planning/assets/Food\ choice\ diagram-_event_\{eventID\}_matches.png)
-![/event/{eventId}/](P3-Project_Planning\assets\Food choice diagram-_event_{eventId}.png)
-![/ (authenticated)](P3-Project_Planning\assets\Food choice diagram-_ (authenticated).png)
+![/](assets\diagram-home.png)  
+![/ (authenticated)](assets\diagram-home-authenticated.png)  
+![/event/{eventId}/](assets\diagram-event-eventId.png)  
+![/event/{eventId}/details](assets\diagram-event-eventId-details.png)  
+![/event/{eventId}/matches](assets\diagram-event-eventID-matches.png)  
 
 ### Project Tracker
 
