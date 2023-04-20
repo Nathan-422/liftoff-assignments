@@ -10,11 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-![/](assets\diagram-home.png)  
-![/ (authenticated)](assets\diagram-home-authenticated.png)  
-![/event/{eventId}/](assets\diagram-event-eventId.png)  
-![/event/{eventId}/details](assets\diagram-event-eventId-details.png)  
-![/event/{eventId}/matches](assets\diagram-event-eventID-matches.png)  
+![/](assets/diagram-home.png)  
+![/ (authenticated)](assets/diagram-home-authenticated.png)  
+![/event/{eventId}/](assets/diagram-event-eventId.png)  
+![/event/{eventId}/details](assets/diagram-event-eventId-details.png)  
+![/event/{eventId}/matches](assets/diagram-event-eventID-matches.png)  
 
 ### Project Tracker
 
