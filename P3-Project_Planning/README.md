@@ -22,4 +22,4 @@ Include a link to [your public Trello board](https://trello.com/b/6yKd3j3B/proje
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Include a [link to your project on GitHub](https://github.com/Apr-23-LC-LiftOff-STL/team-kat).
