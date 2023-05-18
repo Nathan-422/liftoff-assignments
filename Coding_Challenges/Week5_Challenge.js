@@ -8,11 +8,9 @@ function addUp(num) {
     }
 
     let half = num / 2;
+    num += isOdd ? -1 : 1;
 
-    let result = isOdd ? half * (num - 1) : half * (num + 1);
-
-    return result;
-
+    return half * num;
 }
 
 console.log(addUp(4));  // 10
