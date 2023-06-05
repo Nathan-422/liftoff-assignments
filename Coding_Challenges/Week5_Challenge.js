@@ -10,6 +10,12 @@ function addUp(num) {
     let half = num / 2;
     num += isOdd ? -1 : 1;
 
+    if (isOdd) {
+        num += -1;
+    } else {
+        num += 1;
+    }
+
     return half * num;
 }
 
